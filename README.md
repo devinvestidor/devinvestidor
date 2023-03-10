@@ -21,4 +21,4 @@
 ### About
 
 ![DevInvestidor Status](https://github-readme-stats.vercel.app/api?username=devinvestidor&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devinvestidor&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devinvestidor&layout=compact)
