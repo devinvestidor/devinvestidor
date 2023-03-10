@@ -20,5 +20,5 @@
 
 ### About
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![DevInvestidor Status](https://github-readme-stats.vercel.app/api?username=devinvestidor&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devinvestidor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
