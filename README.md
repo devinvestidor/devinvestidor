@@ -14,7 +14,7 @@
 
 
 - 👷 I’m Software Engineer at <a target="_blank" href="https://www.animati.com.br//">Animati</a>
-- 👨‍🏫 I’m Training Instructor at <a target="_blank" href="https://ccea.org.br/">Centro Cultural Escrava Anastácia</a>
+- 👨‍🏫 I’m Content Producer at <a target="_blank" href="https://ccea.org.br/">Centro Cultural Escrava Anastácia</a>
 - 🤓 I’m Blogger at <a target="_blank" href="http://devinvestidor.com.br/">devinvestidor</a>
 
 
